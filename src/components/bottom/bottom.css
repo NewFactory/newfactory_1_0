@@ -1,0 +1,8 @@
+.bottom {
+  display: grid;
+  background-color: #6e707d;
+  width: 100%;
+  height: 200px;
+}
+
+.bottom_content_menu {}
